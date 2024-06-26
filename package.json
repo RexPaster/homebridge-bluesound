@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-bluesound",
-  "version": "0.2.1",
-  "description": "Bluesound plugin for Homebridge: https://github.com/nfarina/homebridge",
+  "name": "homebridge-bluesoundnew",
+  "version": "0.2.2",
+  "description": "Bluesound plugin for Homebridge: https://github.com/RexPaster/homebridgenew",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
@@ -11,11 +11,11 @@
     "homebridge": ">=0.2.0"
   },
   "author": {
-    "name": "Jakob Vang"
+    "name": "Jakob Vang & Rex Paster"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jayWizz/homebridge-bluesound.git"
+    "url": "git://github.com/RexPaster/homebridge-bluesoundnew.git"
   },
   "dependencies": {
     "request": "^2.65.0",
